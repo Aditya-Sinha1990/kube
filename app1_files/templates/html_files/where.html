@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Basic Local MAC Sydney K8s Testing WebApp">
+        <meta name="keywords" content="HTML,CSS,JavaScript">
+        <meta name="author" content="Aditya Sinha">
+        <link rel="stylesheet" href="../../static/css_files/button_style.css">
+        <link rel="stylesheet" href="../../static/css_files/server_info_button.css">
+            <style>
+            h2.inset {border-style: inset;}
+            .myDiv {
+                background-color: #1b2421;
+                text-align: left;
+            }
+            .infoDiv {
+                background-image: url("../../static/image_files/glossy_black.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-size: 100% 100%;
+                height: 600px;
+            }
+        </style>
+    </head>
+    <title>adi_python_frontend</title>
+    <body>
+        <div>
+        <span style="color:blue;font-weight:bold;font-size:26px">&#10844;
+        </span>
+        <a href="http://127.0.0.1:8082/home">Frontend Home Page
+        </a>
+        <!--&#10844; value is "⩜" and is inline of text-->
+        <h3>
+            <marquee behavior="alternate" bgcolor="#415247" scrollamount="07">
+                WHERE ?????
+                <img src="../../static/image_files/kubernetes.gif" width="30" height="20">
+            </marquee>
+        </h3>
+        <div class="myDiv">
+            <h2 id="adi_name_text" class="inset">Mahendraditya Sinha
+            </h2>
+        </div>
+        <iframe src="http://127.0.0.1:9092/techs" title="This is My /techs Page Link in a Frame" name="backend_home" width="49.5%" height="480px" style="background-color: Snow;"></iframe> <!-- This is optional Test-->
+        <iframe src="http://127.0.0.1:9092/where" title="This is My /where Page Link in a Frame" name="backend_techs" width="49.5%" height="480px"></iframe> <!-- This is optional Test-->
+        <script type="text/javascript" src="../../static/javascript_files/serverinfo.js"></script>
+        <button class="button button1" onclick="server_host()">Webapp Host:Port</button>
+        <button class="button button2" onclick="server_filepath()">Webapp FilePath</button>
+        <div class="infoDiv">
+            <div class="div_server_button">
+            <a class="server_button" href="http://127.0.0.1:8082/server_info">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            CONTAINER_INFO
+            </a>
+            </div>
+            </div>
+        </div>
+    </body>
+</html>

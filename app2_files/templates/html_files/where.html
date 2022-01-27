@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Basic K8s Testing WebApp">
+    <meta name="keywords" content="HTML,CSS,JavaScript">
+    <meta name="author" content="Aditya Sinha">
+    <link rel="stylesheet" href="../../static/css_files/button_style.css">
+        <style>
+        h1.inset {border-style: inset;}
+        .mynameDiv {
+            background-color: #02a66c;
+            text-align: left;
+        }
+        </style>
+    </head>
+    <body text="#000000" bgcolor="#9da1a3">
+        <!--&#10844; value is "⩜"-->
+        <span style="color:#2ded57;font-weight:bold;font-size:26px">&#10844;
+        </span>
+        <a href="http://127.0.0.1:9092/home">Backend Home Page
+        </a>
+        <h3>
+            <marquee behavior="alternate" bgcolor="#415247" scrollamount="07">
+                WHERE ?????
+                <img src="../../static/image_files/kubernetes.gif" width="30" height="20">
+            </marquee>
+        </h3>
+        <div class="mynameDiv">
+            <h2 id="adi_name_text" class="inset">Mahendraditya Sinha
+            </h2>
+        </div>
+        <iframe src="http://127.0.0.1:8082/home" title="This is My Home Page Link in a Frame" style="border:1px solid green;"></iframe>
+        <script type="text/javascript" src="../../static/javascript_files/serverinfo.js"></script>
+        <button class="button button1" onclick="server_host()">Webapp Host:Port</button>
+        <button class="button button2" onclick="server_filepath()">Webapp FilePath</button>
+        <div class="serverinfoDiv">
+            <h2>
+                I am running this on Server:
+                <br>
+                <br>+++++++++++++++++++++++++++++++
+                <br>HostName: <span style="color:#5c3737"><strong>{{ get_hostname }}</strong></span>
+                <br>+++++++++++++++++++++++++++++++
+
+                <br>++++++++++++++++++++++++
+                <br>ContainerIP: <span style="color:#5c3737"><strong>{{ get_container_ip }}</strong></span>
+                <br>++++++++++++++++++++++++
+
+                <br>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                <br><span>Date: </span><a id="anything_name" style="color:#5c3737"></a>
+                <br>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                <script>
+                    var d = new Date();
+                    document.getElementById("anything_name").innerHTML = d;
+                </script>
+                <br>+++++++++++
+                <br>ID: alpine|
+                <br>+++++++++++
+
+                <br>+++++++++++++++++++++++
+                <br> Alpine Linux: 3.14.0 |
+                <br>+++++++++++++++++++++++
+
+                <br>++++++++++++++++++++++++++++++++++++++++++++++++
+                <br>msinha:5.10.25-linuxkit/RELEASE_X86_64 x86_64  |
+                <br>++++++++++++++++++++++++++++++++++++++++++++++++
+            </h2>
+        </div>
+    </body>
+</html>
