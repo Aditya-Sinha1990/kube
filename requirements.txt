@@ -1,2 +1,0 @@
-flask ~=1.1.2 # This says flask version1.1.2 or later but not 1.2.0 or later
-flask_restful # This takes default latest tag version
