@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&dispaly=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #060c21;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*
+This is all under box/container
+Below section is properties of server_info_box parent
+container or box and provided is it's info
+border: 1px solid red; <--- place this to check box parts.
+Make changes here and see effects
+*/
+.server_info_box{
+    position: relative;
+    width: 700px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+    background: #060c21;
+    align-content: flex-end;
+}
+/*
+Below Section divides server_info_box Parent container and
+glass_effect_aditya_server_box is divided part child part and
+have it's own properties provided below
+Parts of it; is not present as it will get override be child
+always latest used properties is in effect even if specified earlier
+as it's override previous ones.
+*/
+.server_info_box .glass_effect_aditya_server_box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    display: block;
+    background: rgba(255,255,255,.1);  /*another way of color*/
+    pointer-events: none; /*How cursor behave on hover*/
+}
+
+.server_info_box:before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: #fff;
+    z-index: -1;
+}
+
+.server_info_box:after {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: #fff;
+    z-index: -2;
+    filter: blur(30px);
+}
+
+.server_info_box:before,
+.server_info_box:after {
+    background: linear-gradient(235deg,#ff005e,#010615,#fbff00);  /*yellow-red*/
+    }
+    /*background: linear-gradient(235deg,#772aff,#010615,#2196f3); light-dark blue */
+    /* background: linear-gradient(235deg,#89ff00,#010615,#00bcd4); blue-green */
+
+.server_info_content {
+    padding: 20px;
+    box-size: border-box;
+    color: #fff;
+}

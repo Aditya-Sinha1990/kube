@@ -1,0 +1,4 @@
+flask~=2.0.2 # This says flask version1.1.2 or later but not 1.2.0 or later
+flask_restful # This takes default latest tag version
+requests~=2.27.1
+Werkzeug~=2.0.2

@@ -1,0 +1,1606 @@
+[
+  {
+    "bank_name": "FOC",
+    "ClientCode": [
+      {"Code 1":"ANZ"},
+      {"Code 2":"AVANTI"},
+      {"Code 3": "ACDC"},
+      {"Code 4": "BOQ"},
+      {"Code 5": "CBA"},
+      {"Code 6": "CITI"},
+      {"Code 7": "CWB"},
+      {"Code 8":"GREEENDOT"},
+      {"Code 9":"NAB"},
+      {"Code 10":"Westpac"}],
+    "code": 0
+  },
+  {
+    "bank_name": "ANZ",
+    "customers": [
+      {"Aditya": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 1
+  },
+  {
+    "bank_name": "AVANTI",
+    "customers": [
+      {"Aditya": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Checking"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 2
+  },
+  {
+    "bank_name": "ACDC",
+    "customers": [
+      {"Aditya": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 3
+  },
+  {
+    "bank_name": "BOQ",
+    "customers": [
+      {"Aditya": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 4
+  },
+  {
+    "bank_name": "CBA",
+    "customers": [
+      {"Aditya": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 5
+  },
+  {"bank_name": "CITI",
+    "customers": [
+      {"Peter": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 6
+  },
+  {
+    "bank_name": "CWB",
+    "customers": [
+      {"Rose": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 7
+  },
+  {
+    "bank_name": "GREEENDOT",
+    "customers": [
+      {"Emily": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 8
+  },
+  {
+    "bank_name": "NAB",
+    "customers": [
+      {"Ron": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 9
+  },
+  {
+    "bank_name": "Westpac",
+    "customers": [
+      {"Neeson": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Lucas": [
+        {
+          "account_number": "89896***********8"
+        },
+        {
+          "account_type": ["Savings"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "L*****r@outlook.com"},
+        {
+          "street":"1 Pelican Road",
+          "city":  "Glebe",
+          "state": "Tasmania",
+          "Zip code":  7000
+        }
+      ]},
+      {"Charlotte": [
+        {
+          "account_number": "990276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "ch*****r@hotmail.com"},
+        {
+          "street":"12 Anderson Street",
+          "city":  "Wooloowin",
+          "state": "Queensland",
+          "Zip code":  4030
+        }
+      ]},
+      {"Isla": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Leo": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Chloe": [
+        {
+          "account_number": "7472********8"
+        },
+        {
+          "account_type": ["Savings","NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Noah": [
+        {
+          "account_number": "126276***********8"
+        },
+        {
+          "account_type": ["Credit Card"]
+        },
+        {"Documents": "PROCESSING"},
+        {"phone": "+61*****800"},
+        {"email": "No****r@abc.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"Liam": [
+        {
+          "account_number": "78276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking"]
+        },
+        {"Documents": "PENDING"},
+        {"phone": "+61*****800"},
+        {"email": "Li*****r@gmail.com"},
+        {
+          "street":"8938/2 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]},
+      {"James": [
+        {
+          "account_number": "36276***********8"
+        },
+        {
+          "account_type": ["Savings", "Checking", "Fixed", "Recurring", "NRI", "Credit Card"]
+        },
+        {"Documents": "Verified"},
+        {"phone": "+61*****800"},
+        {"email": "Ol*****r@gmail.com"},
+        {
+          "street":"71 Grayson Street",
+          "city":  "Marrar",
+          "state": "NSW",
+          "Zip code":  2652
+        }
+      ]}
+    ],
+    "code": 10
+  }
+]

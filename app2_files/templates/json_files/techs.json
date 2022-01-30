@@ -1,0 +1,26 @@
+[
+  {
+    "techs_id": 1,
+    "backend_running_container_ip": "get_container_ip_"
+  },
+  {
+    "techs_id": 2,
+    "Cloud_Worked_On": ["AWS", "Azure"],
+    "Cloud_Working": ["Azure", "GCP"],
+    "Cloud_Pending": ["Alibaba", "Openshift"]
+  },
+  {
+    "techs_id": 3,
+    "Language_Woked_On": ["Python", "Powershell", "Groovy",
+      {"Ansible/Teraform": "YAML/HCL"}, "Dockerfile",
+      {"frontend": ["HTML", "Javascript", "css"]}],
+    "Language_Woking_On": ["ARM", "Helm Chart", "Python", "Bash", "Powershell",
+      "Ansible", "ADO Pipelines", "Groovy", {"Ansible/Teraform": "YAML/HCL"}, "Dockerfile"]
+  },
+  {
+    "techs_id": 4,
+    "Monitoring": ["Dynatrace", "Datadog", "CloudWatch"],
+    "Logging": ["Splunk", "SumoLogic"],
+    "ITSM": ["Service Now", "Pagerduty", "Jira Service Management"]
+  }
+]
