@@ -5,18 +5,13 @@ USER root
 RUN adduser -D aditya
 WORKDIR /home/aditya
 
-# expect a build-time variable name "APP_FILES_PASSED"
-ARG APP_FILES_PASSED
-ARG EXPOSE_PORT_PASSED
-ENV APP_FILES_PASSED_ARG=${APP_FILES_PASSED}
-
 # Copy package files in Image
 COPY requirements.txt \
     entrypoint.sh ./
-COPY ${APP_FILES_PASSED_ARG} app_files
+COPY app2_files app_files
 
 # Exposing tcp port 9092
-EXPOSE ${EXPOSE_PORT_PASSED}/tcp
+EXPOSE 9092/tcp
 
 # Meet Dependencies and Executables
 RUN chmod +x entrypoint.sh \
